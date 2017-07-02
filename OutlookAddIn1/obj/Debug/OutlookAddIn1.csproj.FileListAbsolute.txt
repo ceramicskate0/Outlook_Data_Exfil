@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.pdb
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.manifest
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.vsto
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.dll
+c:\users\user\documents\visual studio 2017\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.pdb
