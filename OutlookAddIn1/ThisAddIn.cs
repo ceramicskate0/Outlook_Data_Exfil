@@ -12,7 +12,7 @@ namespace OutlookAddIn1
     public partial class ThisAddIn
     {
         private Random randomNum = new Random();
-        private string Path = "% Temp%";
+        private string Path = "%Temp%";
         private string FullPath="";
         private const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
         private string URL = "";
