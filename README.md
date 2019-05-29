@@ -2,7 +2,7 @@
 
 Add in DLL for outlook to auto download attachments from the "Inbox". 
 
-Yes it A/V approved. :)
+Yes it A/V approved. :). Well 2 years ago ne ways
 
 Yes its for education/business purposes only.
 
